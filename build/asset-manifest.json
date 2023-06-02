@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/About/static/css/main.73b15e07.css",
+    "main.js": "/About/static/js/main.be3623a3.js",
+    "static/js/415.98525374.chunk.js": "/About/static/js/415.98525374.chunk.js",
+    "static/js/787.eb7aabc3.chunk.js": "/About/static/js/787.eb7aabc3.chunk.js",
+    "static/media/gif": "/About/static/media/0827b4ee303c776fe4b212a6ccfc4ebe.a9011d45f5e3c55d874e.gif",
+    "static/media/video-activity.png": "/About/static/media/video-activity.a2279309c4a6f8def334.png",
+    "static/media/Sughosh_Resume.pdf": "/About/static/media/Sughosh_Resume.2f4eb51bc8d128c3f044.pdf",
+    "static/media/codeEditor.png": "/About/static/media/codeEditor.70c03f59e4c82a41157f.png",
+    "static/media/suicide.png": "/About/static/media/suicide.04577bf775fe35921566.png",
+    "static/media/emotion.png": "/About/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/leaf.png": "/About/static/media/leaf.c69c4227798df36894ae.png",
+    "static/media/about.png": "/About/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/kite.png": "/About/static/media/kite.b1896e35e06bc6238288.png",
+    "static/media/home-bg.jpg": "/About/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/About/static/media/logo.829a299adf9e3c9df201.png",
+    "static/media/chatify.png": "/About/static/media/chatify.c5c0ffeca1193e7d5ce2.png",
+    "static/media/football-player-svgrepo-com.svg": "/About/static/media/football-player-svgrepo-com.2cb8bf867932d027dbebf1351963a90f.svg",
+    "static/media/pre.svg": "/About/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/About/index.html",
+    "main.73b15e07.css.map": "/About/static/css/main.73b15e07.css.map",
+    "main.be3623a3.js.map": "/About/static/js/main.be3623a3.js.map",
+    "415.98525374.chunk.js.map": "/About/static/js/415.98525374.chunk.js.map",
+    "787.eb7aabc3.chunk.js.map": "/About/static/js/787.eb7aabc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b15e07.css",
+    "static/js/main.be3623a3.js"
+  ]
+}
