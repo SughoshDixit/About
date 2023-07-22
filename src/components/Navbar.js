@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://sughoshdixit.github.io/Portfolio/"
+                href="https://www.youtube.com/@sughoshdixit/featured"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> My other Porftolio
+                <ImBlog style={{ marginBottom: "2px" }} /> Check my YouTube channel
               </Nav.Link>
             </Nav.Item>
 
