@@ -1,74 +1,58 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">sughosh.space</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+Portfolio Website - v2.0
 
-<br/>
+sughosh.space
 
-<center>
+Badges:
+Built with Love • Made with JavaScript • Open Source
+GitHub Repo Stars • GitHub Forks
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/sughoshdixit/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/sughoshdixit/Portfolio?color=red&logo=github&style=for-the-badge)
+Links:
 
-</center>
+Report Bug: https://github.com/sughoshdixit/About-Me/issues
+Request Feature: https://github.com/sughoshdixit/About-Me/issues
+TL;DR
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/sughoshdixit/About-Me/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/sughoshdixit/About-Me/issues">Request Feature</a>
-</h3>
+You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to https://github.com/sughoshdixit/Portfolio
+. Thanks!
 
-## TL;DR
+Built With
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sughoshdixit](https://github.com/sughoshdixit/Portfolio). Thanks!
+This project was built using these technologies:
 
-## Built With
+React.js
+Node.js
+Express.js
+CSS3
+VS Code
+Vercel
+Features
+Multi-Page Layout
+Styled with React-Bootstrap and CSS with easy-to-customize colors
+Fully Responsive
+Getting Started
 
-This project was built using these technologies.
+Clone this repository. You will need node.js and git installed globally on your machine.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+Installation and Setup Instructions
+Installation:
+npm install
+In the project directory, run:
+npm start
 
-## Features
+Runs the app in development mode.
+Open http://localhost:3000
+ to view it in the browser.
+The page reloads automatically when you make edits.
 
-**📖 Multi-Page Layout**
+Usage Instructions
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+Navigate to /src/components/ inside the project folder.
+Edit the components to update your information.
 
-**📱 Fully Responsive**
+Show Your Support
 
-## Getting Started
+Give a ⭐ if you like this website and check out my YouTube channel:
+https://www.youtube.com/@sughoshdixit5902/
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website and check my YouTube!
-
-<a href="https://www.youtube.com/@sughoshdixit5902/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Youtube" height= "60px" width= "217px" ></a>
+If you want, I can also 
+convert this into a cleaner GitHub README.md with better formatting and badges alignment.
